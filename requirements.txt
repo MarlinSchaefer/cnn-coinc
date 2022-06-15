@@ -1,0 +1,1 @@
+-e git+https://github.com/MarlinSchaefer/BnsLib.git#egg=BnsLib
